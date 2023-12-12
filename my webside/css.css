@@ -1,0 +1,34 @@
+.body{
+     text-align: center;
+}
+
+
+
+
+
+.h1{
+ 
+
+     background-color: rgb(9, 19, 160);
+     color: brown; 
+     text-transform: capitalize;
+     letter-spacing: 3px;
+     text-align: center;
+     
+} 
+
+.h11{
+      background-color: rgb(10, 10, 164);
+      color: white;
+
+
+
+}
+
+
+
+
+#im1{
+      width: 350px;height: 670px;
+
+}
